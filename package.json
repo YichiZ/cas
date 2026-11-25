@@ -1,0 +1,11 @@
+{
+  "name": "cas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun index.html --host=0.0.0.0 --port=3000"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.5"
+  }
+}
